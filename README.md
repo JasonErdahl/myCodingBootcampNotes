@@ -17,6 +17,7 @@ UNIX TERMINAL COMMANDS
     Lists all files in somedirectory
 ### mkdir
     Makes a new directory
+    ex: mkdir coding_class
 ### touch <some filename>
     Makes a new file with the name filename
 ### rm < filename >
@@ -24,13 +25,17 @@ UNIX TERMINAL COMMANDS
 ### rmdir <directory>
     removes or deletes a directory PERMINENT
 
-NOTE: The <up> arrow inserts previous line to the command line
+NOTE:   The <up> <down> arrows insert previous line to the command line
+        <tab> will complete the file/folder name 
 
+### GIT Directory
+    /Documents/coding_class/myCodingBootCampNotes
 
-GIT COMMANDS
+### GIT Repository
+    git clone https://github.com/JasonErdahl/myCodingBootcampNotes.git
+
+### GIT COMMANDS
 1. git add .
 2. git commit -m "message about what committing"
 3. git push
 
-GIT Directory
-/Documents/coding_class/myCodingBootCampNotes
