@@ -31,3 +31,6 @@ GIT COMMANDS
 1. git add .
 2. git commit -m "message about what committing"
 3. git push
+
+GIT Directory
+/Documents/coding_class/myCodingBootCampNotes
