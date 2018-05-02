@@ -6,7 +6,7 @@ UNIX TERMINAL COMMANDS
 ### which git
     is git on my machine?
 ### cd
-    Change Director
+    Change Directory
 ### cd ~/
     Go to root directory
 ### pwd
@@ -20,9 +20,9 @@ UNIX TERMINAL COMMANDS
 ### touch <some filename>
     Makes a new file with the name filename
 ### rm < filename >
-    removes or deletes a filename.
+    removes or deletes a filename. PERMINENT
 ### rmdir <directory>
-    removes or deletes a directory
+    removes or deletes a directory PERMINENT
 
 NOTE: The <up> arrow inserts previous line to the command line
 
