@@ -3,9 +3,12 @@ Coding bootcamp repository
 
 
 UNIX TERMINAL COMMANDS
+### which git
+    is git on my machine?
 ### cd
     Change Director
-
+### cd ~/
+    Go to root directory
 ### pwd
     Present Working Directory
 ### ls
@@ -20,3 +23,10 @@ UNIX TERMINAL COMMANDS
     removes or deletes a filename.
 ### rmdir <directory>
     removes or deletes a directory
+
+NOTE: The <up> arrow inserts previous line to the command line
+
+
+GIT COMMANDS
+1. git add .
+2. git commit -m "message about what committing"
