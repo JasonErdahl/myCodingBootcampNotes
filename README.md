@@ -57,3 +57,8 @@ git status  - tells us the status of the branch
 3. git push
 
 
+### HTML SYNTAX
+backet tag attributes
+
+### CSS
+selector {property: value;}
