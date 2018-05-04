@@ -42,9 +42,10 @@ git status  - tells us the status of the branch
 ### GIT Repository
     git clone https://github.com/JasonErdahl/myCodingBootcampNotes.git
 
-### GIT COMMANDS
+### GIT COMMANDS PROCESS
 1. git add .
 2. git commit -m "message about what committing"
 3. git push
 
-
+### FAQ
+If windows: *Warning: CRLF will be converted to LF*  NOT AN ERROR CarrageReturnLineFeed
