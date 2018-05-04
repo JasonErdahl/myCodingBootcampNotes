@@ -24,9 +24,18 @@ UNIX TERMINAL COMMANDS
     removes or deletes a filename. PERMINENT
 ### rmdir <directory>
     removes or deletes a directory PERMINENT
+### cp <targetfile> <destination file>
+    copies file from target to desination
+### mv <targetfile> <destination file>
+    moves file from target to desination
+
+~/ - User Directory
+../  Parent directory
+./   Current directory
 
 NOTE:   The <up> <down> arrows insert previous line to the command line
         <tab> will complete the file/folder name 
+        If windows: *Warning: CRLF will be converted to LF*  NOT AN ERROR CarrageReturnLineFeed
 
 ### GIT Commands
 git clone   - copies an entire repo (to begin)
@@ -47,5 +56,4 @@ git status  - tells us the status of the branch
 2. git commit -m "message about what committing"
 3. git push
 
-### FAQ
-If windows: *Warning: CRLF will be converted to LF*  NOT AN ERROR CarrageReturnLineFeed
+
