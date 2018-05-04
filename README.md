@@ -29,11 +29,12 @@ NOTE:   The <up> <down> arrows insert previous line to the command line
         <tab> will complete the file/folder name 
 
 ### GIT Commands
-git clone  - copies an entire repo (to begin)
+git clone   - copies an entire repo (to begin)
 git add     - adds a file for inclusion in GIT
 git commit  - notes a change to the local repo
 git push    - sends changes to hosting service.
 git pull    - downloads the freshest version
+git status  - tells us the status of the branch
 
 ### GIT Directory
     /Documents/coding_class/myCodingBootCampNotes
