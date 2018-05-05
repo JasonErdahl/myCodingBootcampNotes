@@ -2,7 +2,7 @@
 Coding bootcamp repository
 
 
-UNIX TERMINAL COMMANDS
+### UNIX TERMINAL COMMANDS
 ### which git
     is git on my machine?
 ### cd
