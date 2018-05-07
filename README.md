@@ -46,10 +46,14 @@ git pull    - downloads the freshest version
 git status  - tells us the status of the branch
 
 ### GIT Directory
-    /Documents/coding_class/myCodingBootCampNotes
+  cd  /Documents/coding_class/myCodingBootCampNotes
+  cd  /Documents/coding_class/HW-Wireframe
+  cd  /Documents/coding_class/Basic-Portfolio
 
 ### GIT Repository
     git clone https://github.com/JasonErdahl/myCodingBootcampNotes.git
+    git clone https://github.com/JasonErdahl/HW-Wireframe.git
+    git clone https://github.com/JasonErdahl/Basic-Portfolio.git
 
 ### GIT UPDATE PROCESS
 1. git add .
@@ -62,3 +66,9 @@ backet tag attributes
 
 ### CSS
 selector {property: value;}
+types: Element, Class, ID
+# - means ID
+. - means CLASS
+ID has higher priority then CLASS
+Positioning: static, relative, absolute, fixed
+z-index: layering
